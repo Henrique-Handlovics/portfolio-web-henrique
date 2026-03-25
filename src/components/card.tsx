@@ -21,7 +21,7 @@ export default function Card() {
   }, []);
 
   return (
-    <div ref={tiltRef} className="w-[300px] md:max-w-[500px] lg:max-w-2xl bg-black flex flex-col items-center justify-center rounded-3xl shadow-lg px-4 py-6 lg:p-8 gap-6 border-2 border-black">
+    <div ref={tiltRef} className="w-full max-w-[300px] md:max-w-[500px] lg:max-w-2xl bg-black flex flex-col items-center justify-center rounded-3xl shadow-lg px-4 py-6 lg:p-8 gap-6 border-2 border-black">
         
         <Image
         src={UserCard}

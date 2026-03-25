@@ -26,10 +26,10 @@ export default function SectionProject(){
 
         gsap.fromTo(projetos, {
             opacity: 0,
-            x: -80
+            y: 30
         },{
             opacity: 1,
-            x: 0,
+            y: 0,
             duration: 1,
             scrollTrigger: {
             trigger: projetos,
@@ -46,7 +46,7 @@ export default function SectionProject(){
 
     return(
         <>  
-            <section id="projetos" className="pb-24">
+            <section id="projetos" className="pb-24 overflow-x-hidden">
 
                 <GridContainer>
 

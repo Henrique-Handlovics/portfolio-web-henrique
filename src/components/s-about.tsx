@@ -21,10 +21,10 @@ export default function SectionAbout(){
 
         gsap.fromTo(sobre, {
             opacity: 0,
-            x: -60
+            y: 30
         },{
             opacity: 1,
-            x: 0,
+            y: 0,
             duration: 1,
             scrollTrigger: {
             trigger: sobre,
@@ -35,10 +35,10 @@ export default function SectionAbout(){
 
         gsap.fromTo(linguagens, {
             opacity: 0,
-            x: -60
+            y: 30
         },{
             opacity: 1,
-            x: 0,
+            y: 0,
             duration: 1,
             scrollTrigger: {
             trigger: linguagens,
@@ -64,7 +64,7 @@ export default function SectionAbout(){
     }, [])
 
     return(
-        <section id="sobre" className="flex items-center justify-between h-[1100px] mb-24 lg:h-[1000px]">
+        <section id="sobre" className="flex items-center justify-between h-[1100px] mb-24 lg:h-[1000px] overflow-x-clip">
             
             <GridContainer className="flex flex-col items-center justify-around gap-8 lg:flex-row">
 

@@ -31,10 +31,10 @@ export default function SectionServicos(){
 
         
         gsap.fromTo(itens,
-            { opacity: 0, x: -60 },
+            { opacity: 0, y: 20 },
             {
                 opacity: 1,
-                x: 0,
+                y: 0,
                 duration: 0.6,
                 stagger: 0.5,
                 scrollTrigger: {
@@ -48,10 +48,10 @@ export default function SectionServicos(){
 
         gsap.fromTo(servicos, {
             opacity: 0,
-            x: -80
+            y: 30
         },{
             opacity: 1,
-            x: 0,
+            y: 0,
             duration: 1,
             scrollTrigger: {
             trigger: servicos,
@@ -109,7 +109,7 @@ export default function SectionServicos(){
     }, [])
 
     return(
-         <section id="servicos" className="mb-24 h-[1300px] lg:h-[900px]">
+         <section id="servicos" className="mb-24 h-[1300px] lg:h-[900px] overflow-x-clip">
                     
                     <GridContainer>
                         
@@ -150,7 +150,7 @@ export default function SectionServicos(){
                             </div>
 
                             {/* Developer Image */}
-                            <div className="relative mt-8 w-[350px] h-[350px] lg:w-[400px] lg:h-[400px] 2xl:w-[500px] 2xl:h-[500px" ref={devImageRef}>
+                            <div className="relative mt-8 w-[350px] h-[350px] lg:w-[400px] lg:h-[400px] 2xl:w-[500px] 2xl:h-[500px]" ref={devImageRef}>
                                 <Image
                                 src={DevImg}
                                 alt="Developer Image"

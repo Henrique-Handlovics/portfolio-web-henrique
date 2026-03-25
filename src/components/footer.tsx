@@ -5,7 +5,7 @@ import Logo from '@/public/Logo-H.png';
 
 export default function Footer(){
      return(
-        <section id="contato" className="w-full bg-black text-white py-16">
+        <section id="contato" className="w-full bg-black text-white py-16 overflow-x-hidden">
 
             <GridContainer className="flex items-center justify-center flex-col">
 

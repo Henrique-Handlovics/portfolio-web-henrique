@@ -73,7 +73,7 @@ export default function Inicio(){
 
 
     return(
-        <section id="inicio" className="bg-inicio-black bg-cover bg-no-repeat bg-bottom-center w-full h-[800px] flex justify-center items-center lg:h-[1000px]">
+        <section id="inicio" className="bg-inicio-black bg-cover bg-no-repeat bg-bottom-center w-full h-[800px] flex justify-center items-center lg:h-[1000px] overflow-x-hidden">
 
             <GridContainer>
                 <div className="w-full flex flex-col items-center justify-center py-20 gap-8">

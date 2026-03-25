@@ -53,7 +53,7 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 w-full h-56 flex items-center z-50 transition-all duration-500 ${
+      className={`fixed overflow-x-hidden top-0 w-full h-56 flex items-center z-50 transition-all duration-500 ${
         scrolled
           ? "bg-black/80 backdrop-blur-sm" // fundo ao scroll
           : "bg-transparent" // transparente no topo
