@@ -64,7 +64,7 @@ export default function SectionAbout(){
     }, [])
 
     return(
-        <section id="sobre" className="flex items-center justify-between h-[1300px] mb-24 lg:h-[1000px]">
+        <section id="sobre" className="flex items-center justify-between h-[1100px] mb-24 lg:h-[1000px]">
             
             <GridContainer className="flex flex-col items-center justify-around gap-8 lg:flex-row">
 

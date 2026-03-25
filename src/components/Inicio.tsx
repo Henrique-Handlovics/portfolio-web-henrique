@@ -73,7 +73,7 @@ export default function Inicio(){
 
 
     return(
-        <section id="inicio" className="bg-inicio-black bg-cover bg-no-repeat bg-bottom-center w-full h-[950px] flex justify-center items-center lg:h-[1000px]">
+        <section id="inicio" className="bg-inicio-black bg-cover bg-no-repeat bg-bottom-center w-full h-[800px] flex justify-center items-center lg:h-[1000px]">
 
             <GridContainer>
                 <div className="w-full flex flex-col items-center justify-center py-20 gap-8">
@@ -82,10 +82,10 @@ export default function Inicio(){
                         {/* Linha + Span + Linha */}
                         <div className="flex items-center gap-4 w-full">
                             <div className="flex-1 h-[2px] bg-white" />
-                            <span className="text-7xl font-medium text-white whitespace-nowrap font-fira">Freelancer</span>
+                            <span className="text-3xl md:text-5xl lg:text-7xl font-medium text-white whitespace-nowrap font-fira">Freelancer</span>
                             <div className="flex-1 h-[2px] bg-white" />
                         </div>
-                        <h2 className="text-5xl font-semibold font-fira text-white w-full pt-4 sm:text-6xl md:text-7xl lg:text-8xl 2xl:text-[100px] "> &lt;Desenvolvedor Front-End&gt;</h2>
+                        <h2 className="text-4xl font-semibold font-fira text-white w-full pt-4 sm:text-5xl md:text-7xl lg:text-8xl 2xl:text-[100px] "> &lt;Desenvolvedor Front-End&gt;</h2>
                     </div>
 
                     {/* Frase de impacto  */}
@@ -95,10 +95,10 @@ export default function Inicio(){
 
                     {/* Area Buttons */}
                     <div className="flex items-center justify-evenly gap-14 my-14" ref={buttonsInicioRef}>
-                        <a href="#projetos" className="text-white font-bold font-poppins text-3xl md:text-4xl 2xl:text-5xl bg-transparent outline-2 rounded-full py-8 px-10 hover:bg-white hover:text-black transition-all duration-300">
+                        <a href="#projetos" className="text-white font-bold font-poppins text-2xl md:text-4xl 2xl:text-5xl bg-transparent outline-2 rounded-full py-8 px-10 hover:bg-white hover:text-black transition-all duration-300">
                             Ver Projetos
                         </a>
-                        <a href={`https://wa.me/5513991248239?text=Olá vim pelo site e gostaria de mais Informações!`} target="_blank" className="text-white font-bold font-poppins text-3xl md:text-4xl 2xl:text-5xl bg-transparent outline-2 rounded-full py-8 px-10 hover:bg-white hover:text-black transition-all duration-300">
+                        <a href={`https://wa.me/5513991248239?text=Olá vim pelo site e gostaria de mais Informações!`} target="_blank" className="text-white font-bold font-poppins text-2xl md:text-4xl 2xl:text-5xl bg-transparent outline-2 rounded-full py-8 px-10 hover:bg-white hover:text-black transition-all duration-300">
                             Contato
                         </a>
                     </div>

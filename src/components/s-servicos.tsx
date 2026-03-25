@@ -109,7 +109,7 @@ export default function SectionServicos(){
     }, [])
 
     return(
-         <section id="servicos" className="mb-24 h-[1100px] lg:h-[900px]">
+         <section id="servicos" className="mb-24 h-[1300px] lg:h-[900px]">
                     
                     <GridContainer>
                         
@@ -118,7 +118,7 @@ export default function SectionServicos(){
                             <h2 className="text-8xl font-bold font-oswald pb-9 border-b-2 lg:text-9xl">Serviços</h2>
                         </div>
 
-                        <div className="flex flex-col items-center justify-evenly mb-24 lg:flex-row">
+                        <div className="flex flex-col items-center justify-evenly pb-24 lg:flex-row">
                             {/* Text Content */}
                             <div className="flex flex-col justify-center items-start">
                                 <div className="w-full max-w-[800px] px-4" ref={funcionalidadesRef}>
@@ -161,7 +161,7 @@ export default function SectionServicos(){
                         </div>
 
                         {/* Button Contato */}
-                        <div className="flex justify-center" ref={buttonRef}>
+                        <div className="flex justify-center mb-20" ref={buttonRef}>
                             <a 
                             href={`https://wa.me/5513991248239?text=Gostaria de mais informações sobre a contratação de serviços!`} target="_blank"
                             className="text-white font-bold text-4xl bg-primary-gray p-8 mx-auto inline-block rounded-2xl cursor-pointer hover:text-black hover:bg-white hover:border-2 hover:shadow-2xl hover:scale-105 transition-all"
