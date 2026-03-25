@@ -13,6 +13,7 @@ html{
   --color-black: #000000;
   --color-white: #ffffff;
   --color-primary-gray: #404040;
+  --color-secondary-gray: #606060;
   --font-poppins: var(--font-poppins);
   --font-oswald: var(--font-oswald);
   --font-fira: var(--font-fira);

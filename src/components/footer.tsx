@@ -58,7 +58,7 @@ export default function Footer(){
                                 <svg className=" w-20 h-20" xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24">
                                 <path d="M3 6a2 2 0 012-2h14a2 2 0 012 2v1.2l-9 5.4-9-5.4V6zm0 3.8l8.47 5.08a1 1 0 001.06 0L21 9.8V18a2 2 0 01-2 2H5a2 2 0 01-2-2V9.8z"/>
                                 </svg>
-                                <a href="contato.devhenriquehandlovics@gmail.com"
+                                <a href="#"
                                 className="text-2xl font-poppins font-medium lg:text-4xl">
                                     Email: contato.devhenriquehandlovics@gmail.com
                                 </a>
