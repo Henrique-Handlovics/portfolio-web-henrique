@@ -72,7 +72,7 @@ export default function SectionAbout(){
                     {/* Sobre Content */}
                     <div className="flex items-center flex-col gap-8 lg:items-start" ref={sobreRef}>
                         <h2 className="font-bold font-fira text-7xl lg:text-8xl">Sobre mim</h2>
-                        <p className="font-poppins text-center text-3xl py-4 px-6 text-justify lg:text-4xl md:px-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto repellat, quisquam aspernatur culpa ipsa libero ab ipsum recusandae aperiam magnam fugiat laborum natus isto incidunt a. Ipsam, eius quia. Asperiores.</p>
+                        <p className="font-poppins text-center text-3xl py-4 px-6 text-justify lg:text-4xl md:px-0">Sou um desenvolvedor Front-end em formação, focado na criação de interfaces modernas, responsivas e funcionais. Tenho experiência com HTML, CSS, JavaScript, React, Next.js e TailwindCSS, e estou sempre buscando evoluir minhas habilidades através de projetos práticos e estudos constantes. Meu objetivo é criar experiências digitais eficientes e intuitivas, contribuindo com soluções criativas e bem estruturadas.</p>
                     </div>
 
                     {/* Linguagens Icons */}

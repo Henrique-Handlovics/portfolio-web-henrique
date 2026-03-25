@@ -75,7 +75,7 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">Spider-Man 2</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Um layout moderno inspirado no universo do Spider-Man, com foco em design responsivo, animações e organização visual. Explore o projeto e veja na prática a construção de uma interface dinâmica e bem estruturada.</p>
                                 </div>
                             </div>
 
@@ -143,7 +143,7 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">God of War Ragnarök</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Um layout inspirado no universo de God of War, com foco em design moderno, responsividade e experiência visual imersiva. Explore o projeto e veja como a interface foi construída para transmitir a força e a identidade do jogo.</p>
                                 </div>
                             </div>
 
@@ -210,7 +210,8 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">FigPro</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Uma landing page moderna desenvolvida a partir de um design, com foco em responsividade, organização visual e experiência do usuário.
+Explore o projeto e veja como o layout foi transformado em uma interface funcional.</p>
                                 </div>
                             </div>
 
@@ -278,7 +279,8 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">PetShop</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Uma landing page moderna desenvolvida para apresentar serviços e produtos de petshop de forma clara, responsiva e visualmente atrativa.
+Explore o projeto e veja como a interface foi construída.</p>
                                 </div>
                             </div>
 
@@ -294,8 +296,8 @@ export default function SectionProject(){
                                     <li  className="text-base lg:text-2xl p-2 font-oswald lg:p-3 bg-amber-700 rounded-xl lg:rounded-2xl text-white font-semibold  text-center uppercase hover:scale-105 transition-all">
                                         tailwindcss
                                     </li>
-                                    <li  className="text-base lg:text-2xl p-2 font-oswald lg:p-3 bg-yellow-400 rounded-xl lg:rounded-2xl text-white font-semibold  text-center uppercase hover:scale-105 transition-all">
-                                        javascript
+                                    <li  className="text-base lg:text-2xl p-2 font-oswald lg:p-3 bg-indigo-900 rounded-xl lg:rounded-2xl text-white font-semibold  text-center uppercase hover:scale-105 transition-all">
+                                        vite
                                     </li>
                                 </ul>
 
@@ -346,7 +348,7 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">Tesla Bot</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Uma interface futurista inspirada no Tesla Bot, desenvolvida para transformar tecnologia em experiência visual interativa. O projeto destaca animações com GSAP usando método fromTo.</p>
                                 </div>
                             </div>
 
@@ -414,7 +416,7 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">Instasany</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Uma interface moderna criada para transformar design em experiência digital, com foco em responsividade, animações e organização visual. O projeto demonstra na prática a construção de uma landing page profissional e interativa.</p>
                                 </div>
                             </div>
 
@@ -482,7 +484,8 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">To Do List</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Um mini app de lista de tarefas desenvolvido para praticar organização de componentes, manipulação de eventos e gerenciamento de estado em uma interface funcional.
+Explore o projeto e veja como a aplicação foi construída.</p>
                                 </div>
                             </div>
 
@@ -550,7 +553,8 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">Promocional Bk</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Uma landing page moderna inspirada no universo de fast food, com foco em design atrativo, responsividade e organização visual da interface.
+Explore o projeto e veja como o layout foi desenvolvido.</p>
                                 </div>
                             </div>
 
@@ -618,7 +622,7 @@ export default function SectionProject(){
                                     <h3 className="text-4xl sm:text-5xl lg:text-6xl text-center font-oswald font-semibold">Starbucks</h3>
                                     <div className="flex-1 h-[2px] bg-black" />
                                 </div>
-                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel inventore hic voluptas eaque, impedit voluptates facere. Cupiditate officiis exercitationem dolore cumque delectus vitae consectetur quae, dicta eos maxime error tempora!</p>
+                                <p className="text-lg sm:text-xl lg:text-3xl text-start font-poppins">Uma interface moderna inspirada no universo Starbucks, criada para transformar design e identidade visual em uma experiência web envolvente. O projeto destaca responsividade e organização de layout.</p>
                                 </div>
                             </div>
 
