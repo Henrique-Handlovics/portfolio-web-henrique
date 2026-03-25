@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { GridContainer } from "./grid";
-import Slider from "./slider";
 import ProjectSpider from '@/public/project-spider.jpg';
 import ProjectGod from '@/public/project-god.jpg';
 import ProjectBk from '@/public/project-bk.jpg';
