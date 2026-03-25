@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+*{
+  -webkit-font-smoothing: antialiased;
+}
+
+html{
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-primary-gray: #404040;
+  --font-poppins: var(--font-poppins);
+  --font-oswald: var(--font-oswald);
+  --font-fira: var(--font-fira);
+  --container-grid: 170rem;
+  --background-image-inicio-black: url('/bg-particulas.jpg');
+}
+
+
