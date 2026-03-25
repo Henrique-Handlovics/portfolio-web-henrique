@@ -79,19 +79,19 @@ export default function SectionAbout(){
                     <div className="flex items-center flex-col gap-8 lg:items-start" ref={linguagensRef}>
                         <h3 className="font-bold font-fira text-7xl lg:text-8xl">Linguagens</h3>
                         <div className="flex items-center gap-5 py-10 md:gap-8">
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
                             
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
           
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
           
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
           
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
           
-                            <img className="w-20 h-20 md:w-30 md:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+                            <img className="w-15 h-15 lg:w-30 lg:h-30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
                         </div>
           
                     </div>
